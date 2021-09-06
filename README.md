@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/htmlcss-responsive-practice-4-FpnX1F5Id)
-- Live Site URL: [Live Site URL](https://3-column-challenge.vercel.app/)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/htmlcss-practice-5-2n4d1xgkg)
+- Live Site URL: [Live Site URL](https://single-price-grid-challenge-eight.vercel.app//)
 
 ## My process
 
